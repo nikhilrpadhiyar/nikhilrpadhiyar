@@ -36,13 +36,6 @@ Senior Software Developer with 9+ years building native Android and cross-platfo
 
 ---
 
-### 📊 GitHub Stats
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilrpadhiyar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrpadhiyar&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilrpadhiyar@gmail.com)
