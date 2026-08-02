@@ -29,7 +29,7 @@ Senior Software Developer with **9+ years** building native Android and cross-pl
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilrpadhiyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=C3C0FF&text_color=C9D1D9" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=nikhilrpadhiyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=C3C0FF&text_color=C9D1D9" width="100%" />
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ Senior Software Developer with **9+ years** building native Android and cross-pl
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrpadhiyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nikhilrpadhiyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9)
 
 </div>
 
@@ -81,17 +81,17 @@ Senior Software Developer with **9+ years** building native Android and cross-pl
 <div align="center">
 
 <a href="https://github.com/nikhilrpadhiyar/flutter_boilerplate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=flutter_boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=flutter_boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/nikhilrpadhiyar/expense_tracker_pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=expense_tracker_pro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=expense_tracker_pro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
 </a>
 <br>
 <a href="https://github.com/nikhilrpadhiyar/ai_chat_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=ai_chat_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=ai_chat_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/nikhilrpadhiyar/flutter_ui_kit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=flutter_ui_kit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=nikhilrpadhiyar&repo=flutter_ui_kit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
 </a>
 
 </div>
