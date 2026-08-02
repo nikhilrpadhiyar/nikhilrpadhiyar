@@ -36,7 +36,7 @@ Senior Software Developer with **9+ years** building native Android and cross-pl
 </table>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilrpadhiyar&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=C3C0FF&currStreakLabel=818CF8" />
+<img src="https://streak-stats.demolab.com?user=nikhilrpadhiyar&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=C3C0FF&currStreakLabel=818CF8" />
 </div>
 
 ---
